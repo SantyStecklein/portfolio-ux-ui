@@ -88,4 +88,4 @@ Se probó el sitio publicado con 3 compañeros de la cursada (Franco Frias, Joaq
 
 **Hallazgos:** las 3 personas valoraron la estructura clara y el orden lógico de las secciones, los casos de estudio, la reflexión UX, el formulario de contacto y el botón de modo claro/oscuro. No se detectaron problemas de navegación.
 
-**Cambios aplicados:** ninguno. Los comentarios recibidos fueron positivos y los de contenido quedan como mejora futura.
+**Cambios aplicados:** se reemplazaron los nombres genéricos de la sección Formación por los nombres reales de las instituciones (DR Computers y Anglo Institute), a partir de la devolución de un compañero. El resto de los comentarios de contenido queda como mejora futura.
