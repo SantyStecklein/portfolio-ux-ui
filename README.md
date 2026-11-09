@@ -60,8 +60,17 @@ Cómo lo revisé: probé el sitio en el navegador, verifiqué los contrastes, co
 
 ## Capturas
 
-- Lighthouse (mobile): `[agregar captura]`
-- Comparación Figma / sitio: `[agregar captura]`
+- Lighthouse (mobile): ![Lighthouse mobile](assets/img/lighthouse-mobile.png)
+- Comparación Figma / sitio:                    
+                Capturas Figma Desktop                                    |                      Capturas Sitio Desktop
+![Figma Hero Desktop](assets/img/figma-hero-desktop.png)                     ![Sitio Hero Desktop](assets/img/sitio-hero-desktop.png)
+![Figma Proyect Desktop](assets/img/figma-proyect-desktop.png)               ![Sitio Hero Desktop](assets/img/sitio-proyect-desktop.png)
+![Figma Proyect Desktop Dark](assets/img/figma-proyect-desktop-dark.png)     ![Figma Proyect Desktop](assets/img/figma-proyect-desktop-dark.png)
+                
+                Capturas Figma Mobile                                    |                      Capturas Sitio Mobile
+![Figma Hero Desktop](assets/img/figma-hero-mobile.png)                     ![Sitio Hero Desktop](assets/img/sitio-hero-mobile.png)
+![Figma Proyect Desktop](assets/img/figma-proyect-mobile.png)               ![Sitio Hero Desktop](assets/img/sitio-proyect-mobile.png)
+![Figma Proyect Desktop Dark](assets/img/figma-proyect-mobile-dark.png)     ![Figma Proyect Desktop](assets/img/figma-proyect-mobile-dark.png)
 
 ## Test de usabilidad
 
