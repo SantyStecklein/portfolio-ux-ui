@@ -61,16 +61,19 @@ Cómo lo revisé: probé el sitio en el navegador, verifiqué los contrastes, co
 ## Capturas
 
 - Lighthouse (mobile): ![Lighthouse mobile](assets/img/lighthouse-mobile.png)
-- Comparación Figma / sitio:                    
-                Capturas Figma Desktop                                    |                      Capturas Sitio Desktop
-![Figma Hero Desktop](assets/img/figma-hero-desktop.png)                     ![Sitio Hero Desktop](assets/img/sitio-hero-desktop.png)
-![Figma Proyect Desktop](assets/img/figma-proyect-desktop.png)               ![Sitio Hero Desktop](assets/img/sitio-proyect-desktop.png)
-![Figma Proyect Desktop Dark](assets/img/figma-proyect-desktop-dark.png)     ![Figma Proyect Desktop](assets/img/figma-proyect-desktop-dark.png)
-                
-                Capturas Figma Mobile                                    |                      Capturas Sitio Mobile
-![Figma Hero Desktop](assets/img/figma-hero-mobile.png)                     ![Sitio Hero Desktop](assets/img/sitio-hero-mobile.png)
-![Figma Proyect Desktop](assets/img/figma-proyect-mobile.png)               ![Sitio Hero Desktop](assets/img/sitio-proyect-mobile.png)
-![Figma Proyect Desktop Dark](assets/img/figma-proyect-mobile-dark.png)     ![Figma Proyect Desktop](assets/img/figma-proyect-mobile-dark.png)
+- Comparación Figma / sitio:
+
+| Pantalla | Figma Desktop (1280 px) | Sitio Desktop (1280 px) |
+|---|---|---|
+| Figma / Sitio (Hero) | <img src="assets/img/figma-hero-desktop.png" width="480"> | <img src="assets/img/sitio-hero-desktop.png" width="480"> |
+| Figma / Sitio (Proyectos) | <img src="assets/img/figma-proyect-desktop.png" width="480"> | <img src="assets/img/sitio-proyect-desktop.png" width="480"> |
+| Figma / Sitio (Proyectos Dark) | <img src="assets/img/figma-proyect-desktop-dark.png" width="480"> | <img src="assets/img/sitio-proyect-desktop-dark.png" width="480"> |
+
+| Pantalla | Figma Mobile (375 px) | Sitio Mobile (375 px) |
+|---|---|---|
+| Figma / Sitio (Hero) | <img src="assets/img/figma-hero-mobile.png" width="200"> | <img src="assets/img/sitio-hero-mobile.png" width="200"> |
+| Figma / Sitio (Proyectos) | <img src="assets/img/figma-proyect-mobile.png" width="200"> | <img src="assets/img/sitio-proyect-mobile.png" width="200"> |
+| Figma / Sitio (Proyectos Dark) | <img src="assets/img/figma-proyect-mobile-dark.png" width="200"> | <img src="assets/img/sitio-proyect-mobile-dark.png" width="200"> |
 
 ## Test de usabilidad
 
