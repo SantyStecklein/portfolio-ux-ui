@@ -242,22 +242,11 @@ a:hover { color: var(--color-primario-hover); }
 .hero__rol { font: 700 1.5rem/2rem var(--fuente-titulo); color: var(--color-primario); }
 .hero__acciones { display: flex; flex-wrap: wrap; gap: var(--espacio-16); }
 .hero__ubicacion { font-size: 0.875rem; line-height: 1.25rem; color: var(--color-texto-suave); }
-.hero__arte {
-  position: relative; overflow: hidden; min-height: 15rem;
-  background: var(--color-lavanda); border: 2px solid var(--color-borde); border-radius: var(--radio-16);
-}
-.hero__arte > * { position: absolute; border: 2px solid var(--color-borde); }
-.hero__circulo { width: 8.75rem; height: 8.75rem; top: -1.875rem; left: -1.875rem; border-radius: 50%; background: var(--color-celeste); }
-.hero__pildora { width: 11.25rem; height: 4rem; right: 2rem; bottom: 2rem; border-radius: var(--radio-pildora); background: var(--color-arena); }
-.hero__ventana { top: 4.5rem; left: 15%; width: 70%; padding: var(--espacio-16); border-radius: var(--radio-16); background: var(--color-superficie); display: grid; gap: var(--espacio-8); }
-.hero__ventana i { display: block; height: 0.625rem; border-radius: var(--radio-pildora); background: var(--color-lavanda-fuerte); }
-.hero__ventana i:nth-child(2) { width: 70%; background: var(--color-celeste); }
-.hero__ventana i:nth-child(3) { width: 45%; background: var(--color-arena); }
 @media (min-width: 64em) {
   .hero { padding-block: var(--espacio-64); }
-  .hero__grilla { grid-template-columns: 1fr 1fr; gap: var(--espacio-48); }
-  .hero__titulo { font-size: 3rem; line-height: 3.5rem; }
-  .hero__arte { min-height: 23.75rem; }
+  /* Sin ilustración: el texto ocupa algo más de la mitad del ancho, desde el mismo borde izquierdo */
+  .hero__texto { max-width: 47.5rem; }
+  .hero__titulo { font-size: 3rem; line-height: 3.5rem; } /* estilo "Display" de Figma: 48/56 */
 }
 
 /* Métricas */
