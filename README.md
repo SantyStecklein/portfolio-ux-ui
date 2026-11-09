@@ -77,4 +77,15 @@ Cómo lo revisé: probé el sitio en el navegador, verifiqué los contrastes, co
 
 ## Test de usabilidad
 
-`[completar con los hallazgos y los cambios aplicados]`
+Se probó el sitio publicado con 3 compañeros de la cursada (Franco Frias, Joaquín Parodi y Matías González). Tareas: 1) encontrar el email de contacto, 2) abrir el proyecto más reciente, 3) encontrar qué herramientas usa, 4) abrir el caso de estudio de Mesa de Ayuda.
+
+| Tarea | Resultado |
+|---|---|
+| Encontrar el email | Las 3 personas lo encontraron sin dificultad (botón "Contacto" del header, "Escribime" del inicio o el pie de página). |
+| Abrir el proyecto más reciente | Las 3 lo ubicaron en la sección Proyectos. |
+| Encontrar las herramientas | Las 3 las encontraron en Skills y en las etiquetas de cada proyecto. |
+| Abrir el caso de estudio | 2 de 3 llegaron a Mesa de Ayuda desde la lista de proyectos; la tercera persona no reportó esta tarea. |
+
+**Hallazgos:** las 3 personas valoraron la estructura clara y el orden lógico de las secciones, los casos de estudio, la reflexión UX, el formulario de contacto y el botón de modo claro/oscuro. No se detectaron problemas de navegación.
+
+**Cambios aplicados:** ninguno. Los comentarios recibidos fueron positivos y los de contenido quedan como mejora futura.
