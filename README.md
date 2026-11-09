@@ -44,7 +44,7 @@ assets/                       Favicon e imágenes (WebP)
 1. Subir el proyecto a la rama `main` del repositorio.
 2. En el repositorio: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 3. Cada `push` a `main` ejecuta `.github/workflows/pages.yml` y publica el sitio.
-4. Para el formulario: crear un formulario en [Formspree](https://formspree.io) y reemplazar `TU_ID_DE_FORMSPREE` en el atributo `action` de `index.html`.
+
 
 ## Créditos y recursos
 
